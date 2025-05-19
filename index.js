@@ -72,7 +72,7 @@ document
       \u200Fالبنك: ${bank}`;
       
   
-      const whatsappURL = `https://wa.me/966559109217?text=${encodeURIComponent(message)}`;
+      const whatsappURL = `https://wa.me/966591999108?text=${encodeURIComponent(message)}`;
       window.open(whatsappURL, "_blank");
     } else {
       alert("يرجى تعبئة جميع الحقول قبل الإرسال إلى الواتساب.");
