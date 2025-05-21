@@ -64,7 +64,7 @@ document
   
     // تأكد من تعبئة الحقول قبل إرسال الرسالة
     if (fullName && salary && phoneNumber && workSector && bank) {
-      const message = `مرحبًا، أرغب في الحصول على معلومات حول التمويل العقاري. إليك بياناتي:\n
+      const message = `مرحبًا، أرغب في الحصول على معلومات حول المشاريع العقارية. إليك بياناتي:\n
       \u200Fالإسم: ${fullName}\n
       \u200Fالراتب: ${salary}\n
       \u200Fرقم الهاتف: ${phoneNumber}\n
